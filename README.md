@@ -17,4 +17,4 @@ My favorite food:
 
 ### Contact
 
-The best way to get in touch with me is [via email](fanzhaom21@gmail.com).
+The best way to get in touch with me is [via email](mailto:fanzhaom21@gmail.com).
