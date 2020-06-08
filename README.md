@@ -1,28 +1,20 @@
-# This is a large heading
+# Fanzhao Meng
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I currently live in the United States of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I recently finished reading this book:
+- *GUI CHUI DENG* by Tian Xia Ba Chang
 
-Here is `some code` in the middle of a sentence.
+### Food
+My favorite food:
+1. Chinese food.
+2. Fried chicken.
+3. Fast food.
 
-```
-This is
-a block
-of code
-```
+### Contact
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is [via email](mailto:fanzhaom21@gmail.com).
